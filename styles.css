@@ -1,0 +1,14 @@
+#box {
+    width: 540px;
+    height: 540px;
+}
+
+.square {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+}
